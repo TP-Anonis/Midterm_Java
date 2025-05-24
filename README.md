@@ -115,6 +115,4 @@ Thay <token> bằng token thực tế.
 13.Lấy Chi Tiết Sản Phẩm (GET /api/products/{id}):curl -X GET "http://localhost:8080/api/products/1" -H "Authorization: Bearer <token>" -v
 
 Đây là các API mà bạn có thể sử dụng để kiểm tra ứng dụng.# Java_Midterm
-# Midterm_Java
-# Midterm_Java
-# Midterm_Java
+
